@@ -1,0 +1,46 @@
+{
+  "name": "cordova-plugin-background-upload",
+  "version": "1.0.11",
+  "description": "Cordova plugin for uploading file in the background",
+  "types": "./types/index.d.ts",
+  "cordova": {
+    "id": "cordova-plugin-background-upload",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spoonconsulting/cordova-plugin-background-upload"
+  },
+  "keywords": [
+    "cordova",
+    "background",
+    "file",
+    "upload",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "scripts": {},
+  "dependencies": {},
+  "author": "Mevin Dhunnooa",
+  "contributors": [
+    {
+      "name": "Luc Boissaye",
+      "email": "luc@boissaye.fr",
+      "url": "https://github.com/ombr",
+      "hireable": true
+    }
+  ],
+  "license": "Apache-2.0",
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "devDependencies": {}
+}
